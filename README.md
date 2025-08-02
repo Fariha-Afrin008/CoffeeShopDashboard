@@ -36,7 +36,7 @@ This Excel dashboard project analyzes sales data for a coffee shop, providing ac
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](coffee-dashboard-preview.png)
+![Dashboard Screenshot](coffee-dashboard-preview.JPG)
 
 ---
 
@@ -45,13 +45,13 @@ This Excel dashboard project analyzes sales data for a coffee shop, providing ac
 | File Name              | Description                                |
 |------------------------|--------------------------------------------|
 | `coffeeOrdersData.xlsx`| Full Excel workbook with dashboard & data  |
-| `dashboard-preview.png`| Screenshot of the dashboard                |
+| `dashboard-preview.JPG`| Screenshot of the dashboard                |
 
 ---
 
 ## 🔗 Download the Excel File
 
-📥 [Click here to view or download the Excel dashboard](https://drive.google.com/your-shared-link)  
+📥 [Click here to view or download the Excel dashboard](https://docs.google.com/spreadsheets/d/1MudtGHQwWqglnJYdVQEX28yOTjBlvohD/edit?usp=sharing&ouid=115277383657838265435&rtpof=true&sd=true)  
 *Note: File hosted externally due to GitHub size restrictions.*
 
 ---
